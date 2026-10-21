@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gabz-furniture-and-interiors.vercel.app/sitemap.xml
