@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gabz-furniture-and-interiors.vercel.app/sitemap.xml
+Sitemap: https://www.gabsinteriors.com.ng/sitemap.xml
