@@ -1,12 +1,12 @@
 {
   "furniture-lagos.html": {
-    "title": "Furniture in Lagos | Sofas & Beds — Gabs",
-    "description": "Explore sofas, beds and furniture by Gabs Furniture & Interiors in Iyana-Ipaja, Lagos. Browse real projects and request a quote.",
+    "title": "Furniture Makers in Lagos | Gabs",
+    "description": "See sofas, beds and headboards made by Gabs in Iyana-Ipaja, Lagos. Browse completed furniture projects and request a quote.",
     "canonical": "https://www.gabsinteriors.com.ng/furniture-lagos.html"
   },
   "interior-decor-lagos.html": {
-    "title": "Interior Decor in Lagos & Iyana-Ipaja | Gabs",
-    "description": "Gabs Furniture & Interiors in Iyana-Ipaja, Lagos: interior decor, wall panels and furnished spaces. View completed projects and discuss your room.",
+    "title": "Interior Decorators in Lagos | Gabs",
+    "description": "Meet the Gabs interior decorators in Lagos. See finished rooms, wall treatments and furniture projects, and discuss your own space.",
     "canonical": "https://www.gabsinteriors.com.ng/interior-decor-lagos.html"
   },
   "fitted-kitchens-lagos.html": {
@@ -15,18 +15,23 @@
     "canonical": "https://www.gabsinteriors.com.ng/fitted-kitchens-lagos.html"
   },
   "wardrobes-lagos.html": {
-    "title": "Fitted Wardrobes & Bedroom Storage in Lagos | Gabs",
-    "description": "View fitted wardrobes, shelving and bedroom storage by Gabs in Iyana-Ipaja, Lagos. Explore real projects and discuss your storage requirements.",
+    "title": "Wardrobe Makers in Lagos | Gabs",
+    "description": "Browse fitted wardrobes, mirror fronts and bedroom storage made by Gabs in Iyana-Ipaja, Lagos. Share your room measurements for a quote.",
     "canonical": "https://www.gabsinteriors.com.ng/wardrobes-lagos.html"
   },
   "tv-console-mirror-designs-lagos.html": {
-    "title": "TV Consoles & Mirror Designs in Lagos | Gabs",
-    "description": "Explore TV walls, fitted panels and mirror designs by Gabs Furniture & Interiors in Iyana-Ipaja, Lagos. View project videos and request a quote.",
+    "title": "Mirror Designs for Walls & Wardrobes | Gabs",
+    "description": "Explore mirror designs from Gabs in Lagos, including wardrobe mirrors and decorative accents, alongside TV consoles and feature walls.",
     "canonical": "https://www.gabsinteriors.com.ng/tv-console-mirror-designs-lagos.html"
   },
   "index.html": {
     "title": "Gabs Furniture & Interiors | Iyana-Ipaja, Lagos",
     "description": "Explore Gabs furniture and interior decor in Iyana-Ipaja, Lagos. View sofas, beds, fitted kitchens and wardrobes, then request a project quote.",
     "canonical": "https://www.gabsinteriors.com.ng/"
+  },
+  "interior-decor-inspo.html": {
+    "title": "Interior Decor Inspo | Real Room Ideas by Gabs",
+    "description": "Find interior decor inspo in real Gabs projects, from living-room lighting and marble-effect walls to fitted kitchens and mirrored wardrobes.",
+    "canonical": "https://www.gabsinteriors.com.ng/interior-decor-inspo.html"
   }
 }
